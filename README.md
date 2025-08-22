@@ -1,1 +1,1 @@
-# PhysiologiaPlantarum
+# Data and Python code used in article "Machine Learning-Driven Screening of Promising Mutants in Nilgirianthus ciliatus Callus Cultures for Enhanced Secondary Metabolites Production" article submittted to Physiologia Plantarum.
